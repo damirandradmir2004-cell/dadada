@@ -1,0 +1,99 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBuffer>
+  <FrameBufferWindow width="0" keepAspectRatio="0" zoomToFitWindow="0" showGrid="0" addressSpace="" format="0" height="0" autoEvaluate="0" scaleFactor="1" refreshPeriod="0" name="Executable_1_Debug" addressText="" accessByDisplayWidth="0"/>
+  <FrameBufferWindow width="0" keepAspectRatio="0" zoomToFitWindow="0" showGrid="0" addressSpace="" format="0" height="0" autoEvaluate="0" scaleFactor="1" refreshPeriod="0" name="Executable_2_Debug" addressText="" accessByDisplayWidth="0"/>
+ </FrameBuffer>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="Executable_1_Debug" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="Executable_2_Debug" sizeText="" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="Executable_1_Debug" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="Executable_2_Debug" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="Executable_1_Debug" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="Executable_2_Debug" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="Executable_1_Debug" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="Executable_2_Debug" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="Executable_1"/>
+  <ProjectSessionItem path="Executable_1;Executable_1"/>
+  <ProjectSessionItem path="Executable_1;Executable_1;CMSIS Files"/>
+  <ProjectSessionItem path="Executable_1;Executable_1;Script Files"/>
+  <ProjectSessionItem path="Executable_1;Executable_1;Source Files"/>
+  <ProjectSessionItem path="Executable_1;Executable_1;System Files"/>
+ </Project>
+ <Register1>
+  <RegisterWindow invisibleNodes="" visibleNodes="ADC1/SR;ADC1/CR1;ADC1/CR2;ADC1/SMPR1;ADC1/SMPR2;ADC1/JOFR1;ADC1/JOFR2;ADC1/JOFR3;ADC1/JOFR4;ADC1/HTR;ADC1/LTR;ADC1/SQR1;ADC1/SQR2;ADC1/SQR3;ADC1/JSQR;ADC1/JDR1;ADC1/JDR2;ADC1/JDR3;ADC1/JDR4;ADC1/DR;TIM2/CR1;TIM2/CR2;TIM2/SMCR;TIM2/DIER;TIM2/SR;TIM2/EGR;TIM2/CCMR1_Output;TIM2/CCMR1_Input;TIM2/CCMR2_Output;TIM2/CCMR2_Input;TIM2/CCER;TIM2/CNT;TIM2/PSC;TIM2/ARR;TIM2/CCR1;TIM2/CCR2;TIM2/CCR3;TIM2/CCR4;TIM2/DCR;TIM2/DMAR;TIM2/OR;DMA2/LISR;DMA2/HISR;DMA2/LIFCR;DMA2/HIFCR;DMA2/S0CR;DMA2/S0NDTR;DMA2/S0PAR;DMA2/S0M0AR;DMA2/S0M1AR;DMA2/S0FCR;DMA2/S1CR;DMA2/S1NDTR;DMA2/S1PAR;DMA2/S1M0AR;DMA2/S1M1AR;DMA2/S1FCR;DMA2/S2CR;DMA2/S2NDTR;DMA2/S2PAR;DMA2/S2M0AR;DMA2/S2M1AR;DMA2/S2FCR;DMA2/S3CR;DMA2/S3NDTR;DMA2/S3PAR;DMA2/S3M0AR;DMA2/S3M1AR;DMA2/S3FCR;DMA2/S4CR;DMA2/S4NDTR;DMA2/S4PAR;DMA2/S4M0AR;DMA2/S4M1AR;DMA2/S4FCR;DMA2/S5CR;DMA2/S5NDTR;DMA2/S5PAR;DMA2/S5M0AR;DMA2/S5M1AR;DMA2/S5FCR;DMA2/S6CR;DMA2/S6NDTR;DMA2/S6PAR;DMA2/S6M0AR;DMA2/S6M1AR;DMA2/S6FCR;DMA2/S7CR;DMA2/S7NDTR;DMA2/S7PAR;DMA2/S7M0AR;DMA2/S7M1AR;DMA2/S7FCR" binaryNodes="" asciiNodes="" openNodes="ADC1/SR;ADC1/CR1;ADC1/JDR1;ADC1/DR;TIM2/CNT;DMA2;DMA2/HISR" name="Executable_1_Debug" decimalNodes="ADC1/JDR1;ADC1/JDR1/JDATA;ADC1/DR/DATA;TIM2/CNT;DMA2/S7NDTR" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal;GPIOE/MODER;GPIOE/OTYPER;GPIOE/OSPEEDR;GPIOE/PUPDR;GPIOE/IDR;GPIOE/ODR;GPIOE/BSRR;GPIOE/LCKR;GPIOE/AFRL;GPIOE/AFRH;I2C1/SR1;I2C1/CR1;I2C1/CR2;I2C1/OAR1;I2C1/OAR2;I2C1/DR;I2C1/SR2;I2C1/CCR;I2C1/TRISE" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context;GPIOE/IDR;I2C1;I2C1/SR1;I2C1/DR;I2C1/SR2" name="Executable_2_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="Executable_1_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="Executable_2_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="Executable_1_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="Executable_2_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="Executable_1_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="Executable_2_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Twice a Second">
+   <Watchpoint expression=" current_value" name=" current_value" radix="16" linenumber="108" filename="dz.c"/>
+   <Watchpoint expression="adc_value" name="adc_value" radix="10" linenumber="154" filename="dz.c"/>
+   <Watchpoint expression="cnt_value" name="cnt_value" radix="10" linenumber="106" filename="dz.c"/>
+   <Watchpoint expression="raw_value" name="raw_value" radix="10" linenumber="150" filename="dz.c"/>
+   <Watchpoint expression="vdda" name="vdda" radix="10" linenumber="151" filename="dz.c"/>
+   <Watchpoint expression="voltage" name="voltage" radix="10" linenumber="152" filename="dz.c"/>
+   <Watchpoint expression="ms_count" name="ms_count" radix="10" linenumber="278" filename="dma.c"/>
+   <Watchpoint expression="seconds" name="seconds" radix="10" linenumber="130" filename="dma.c"/>
+   <Watchpoint expression="bufferIN" name="bufferIN" radix="16" linenumber="187" filename="dma.c"/>
+   <Watchpoint expression="bufferOUT" name="bufferOUT" radix="16" linenumber="188" filename="dma.c"/>
+  </Watches>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="2" y="0" useTextEdit="1" path="main.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="RCC_Init.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="43" y="270" useTextEdit="1" path="STM32F4xx/Source/stm32f407xx_Vectors.s" left="0" top="235" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="14" y="10" useTextEdit="1" path="adc1.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="5812" useTextEdit="1" path="STM32F4xx/Device/Include/stm32f407xx.h" left="0" top="5806" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="timer.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="14" y="60" useTextEdit="1" path="log.h" left="0" top="55" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="log.c" left="0" top="100" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="5" y="85" useTextEdit="1" path="dz.c" left="0" top="48" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="13" y="1" useTextEdit="1" path="timerPWM.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1778" useTextEdit="1" path="CMSIS_5/CMSIS/Core/Include/core_cm4.h" left="0" top="1755" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="1" y="17" useTextEdit="1" path="adc2.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../hueta/usart.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="3" y="27" useTextEdit="1" path="dma_adc1.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1" useTextEdit="1" path="usart.c" left="0" selected="1" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="2" y="99" useTextEdit="1" path="adc.c" left="0" top="69" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="26" useTextEdit="1" path="dma.c" left="0" top="6" codecName="Default"/>
+ </Files>
+ <EMStudioWindow activeProject="Executable_1" fileDialogDefaultFilter="*.c" autoConnectTarget="GDB Server" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="E:/STM/ADC" debugSearchPath="" autoConnectCapabilities="1343"/>
+</session>
