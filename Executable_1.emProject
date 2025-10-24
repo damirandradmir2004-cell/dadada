@@ -1,18 +1,28 @@
 <!DOCTYPE CrossStudio_Project_File>
-<solution Name="Executable_2" target="8" version="2">
+<solution Name="Executable_1" target="8" version="2">
   <configuration
     Name="Debug"
     c_preprocessor_definitions="DEBUG"
+    debug_target_connection="GDB Server"
     gcc_debugging_level="Level 3"
     gcc_omit_frame_pointer="Yes"
-    gcc_optimization_level="None" />
+    gcc_optimization_level="None"
+    gdb_server_allow_memory_access_during_execution="Yes"
+    gdb_server_autostart_server="No"
+    gdb_server_command_line=""
+    gdb_server_ignore_checksum_errors="Yes"
+    gdb_server_port="61234"
+    gdb_server_register_access="General and Individual"
+    gdb_server_reset_command="reset"
+    gdb_server_type="ST-LINK"
+    linker_printf_fp_enabled="Float" />
   <configuration
     Name="Release"
     c_preprocessor_definitions="NDEBUG"
     gcc_debugging_level="Level 2"
     gcc_omit_frame_pointer="Yes"
     gcc_optimization_level="Level 2 balanced" />
-  <project Name="Executable_2">
+  <project Name="Executable_1">
     <configuration
       LIBRARY_IO_TYPE="RTT"
       Name="Common"
@@ -43,17 +53,6 @@
       project_directory=""
       project_type="Executable"
       target_reset_script="Reset();" />
-    <configuration
-      Name="Debug"
-      debug_target_connection="GDB Server"
-      gdb_server_allow_memory_access_during_execution="Yes"
-      gdb_server_autostart_server="No"
-      gdb_server_command_line=""
-      gdb_server_ignore_checksum_errors="Yes"
-      gdb_server_port="61234"
-      gdb_server_register_access="General and Individual"
-      gdb_server_reset_command="reset"
-      gdb_server_type="ST-LINK" />
     <folder Name="CMSIS Files">
       <file file_name="STM32F4xx/Device/Include/stm32f4xx.h" />
       <file file_name="STM32F4xx/Device/Source/system_stm32f4xx.c">
@@ -71,7 +70,7 @@
     <folder Name="Source Files">
       <configuration Name="Common" filter="c;cpp;cxx;cc;h;s;asm;inc" />
       <file file_name="main.c" />
-      <file file_name="$(StudioDir)/proekt2/RCC_Init.c" />
+      <file file_name="$(StudioDir)/ADC/RCC_Init.c" />
     </folder>
     <folder Name="System Files">
       <file file_name="SEGGER_THUMB_Startup.s" />

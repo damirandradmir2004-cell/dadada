@@ -24,14 +24,14 @@
   <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="Executable_2_Debug" sizeText="" addressText=""/>
  </Memory4>
  <Project>
-  <ProjectSessionItem path="Executable_2"/>
-  <ProjectSessionItem path="Executable_2;Executable_2"/>
-  <ProjectSessionItem path="Executable_2;Executable_2;Script Files"/>
-  <ProjectSessionItem path="Executable_2;Executable_2;Source Files"/>
-  <ProjectSessionItem path="Executable_2;Executable_2;System Files"/>
+  <ProjectSessionItem path="Executable_1"/>
+  <ProjectSessionItem path="Executable_1;Executable_1"/>
+  <ProjectSessionItem path="Executable_1;Executable_1;Script Files"/>
+  <ProjectSessionItem path="Executable_1;Executable_1;Source Files"/>
+  <ProjectSessionItem path="Executable_1;Executable_1;System Files"/>
  </Project>
  <Register1>
-  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="Executable_1_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow invisibleNodes="" visibleNodes="ADC1/SR;ADC1/CR1;ADC1/CR2;ADC1/SMPR1;ADC1/SMPR2;ADC1/JOFR1;ADC1/JOFR2;ADC1/JOFR3;ADC1/JOFR4;ADC1/HTR;ADC1/LTR;ADC1/SQR1;ADC1/SQR2;ADC1/SQR3;ADC1/JSQR;ADC1/JDR1;ADC1/JDR2;ADC1/JDR3;ADC1/JDR4;ADC1/DR;TIM2/CR1;TIM2/CR2;TIM2/SMCR;TIM2/DIER;TIM2/SR;TIM2/EGR;TIM2/CCMR1_Output;TIM2/CCMR1_Input;TIM2/CCMR2_Output;TIM2/CCMR2_Input;TIM2/CCER;TIM2/CNT;TIM2/PSC;TIM2/ARR;TIM2/CCR1;TIM2/CCR2;TIM2/CCR3;TIM2/CCR4;TIM2/DCR;TIM2/DMAR;TIM2/OR;DMA2/LISR;DMA2/HISR;DMA2/LIFCR;DMA2/HIFCR;DMA2/S0CR;DMA2/S0NDTR;DMA2/S0PAR;DMA2/S0M0AR;DMA2/S0M1AR;DMA2/S0FCR;DMA2/S1CR;DMA2/S1NDTR;DMA2/S1PAR;DMA2/S1M0AR;DMA2/S1M1AR;DMA2/S1FCR;DMA2/S2CR;DMA2/S2NDTR;DMA2/S2PAR;DMA2/S2M0AR;DMA2/S2M1AR;DMA2/S2FCR;DMA2/S3CR;DMA2/S3NDTR;DMA2/S3PAR;DMA2/S3M0AR;DMA2/S3M1AR;DMA2/S3FCR;DMA2/S4CR;DMA2/S4NDTR;DMA2/S4PAR;DMA2/S4M0AR;DMA2/S4M1AR;DMA2/S4FCR;DMA2/S5CR;DMA2/S5NDTR;DMA2/S5PAR;DMA2/S5M0AR;DMA2/S5M1AR;DMA2/S5FCR;DMA2/S6CR;DMA2/S6NDTR;DMA2/S6PAR;DMA2/S6M0AR;DMA2/S6M1AR;DMA2/S6FCR;DMA2/S7CR;DMA2/S7NDTR;DMA2/S7PAR;DMA2/S7M0AR;DMA2/S7M1AR;DMA2/S7FCR;USART1/SR;USART1/DR;USART1/BRR;USART1/CR1;USART1/CR2;USART1/CR3;USART1/GTPR" binaryNodes="" asciiNodes="" openNodes="ADC1;ADC1/SR;ADC1/CR1;ADC1/JDR1;ADC1/DR;TIM2;TIM2/CNT;USART1;USART1/SR;USART1/DR" name="Executable_1_Debug" decimalNodes="ADC1/JDR1;ADC1/JDR1/JDATA;ADC1/DR/DATA;TIM2/CNT" octalNodes="" unsignedNodes=""/>
   <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal;GPIOE/MODER;GPIOE/OTYPER;GPIOE/OSPEEDR;GPIOE/PUPDR;GPIOE/IDR;GPIOE/ODR;GPIOE/BSRR;GPIOE/LCKR;GPIOE/AFRL;GPIOE/AFRH;I2C1/SR1;I2C1/CR1;I2C1/CR2;I2C1/OAR1;I2C1/OAR2;I2C1/DR;I2C1/SR2;I2C1/CCR;I2C1/TRISE" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context;GPIOE/IDR;I2C1;I2C1/SR1;I2C1/DR;I2C1/SR2" name="Executable_2_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
  </Register1>
  <Register2>
@@ -54,10 +54,7 @@
  </TraceWindow>
  <Watch1>
   <Watches active="1" update="Twice a Second">
-   <Watchpoint expression="addr_offset" name="addr_offset" radix="16" linenumber="300" filename="main.c"/>
-   <Watchpoint expression="i2c_rx_array" name="i2c_rx_array" radix="-1" linenumber="304" filename="main.c"/>
-   <Watchpoint expression="i2c_tx_array" name="i2c_tx_array" radix="-1" linenumber="294" filename="main.c"/>
-   <Watchpoint expression="array" name="array" radix="16" linenumber="34" filename="r.c"/>
+   <Watchpoint expression="voltage" name="voltage" radix="10" linenumber="31" filename="main.c"/>
   </Watches>
  </Watch1>
  <Watch2>
@@ -70,12 +67,11 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../proekt2/RCC_Init.c" left="0" top="0" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="25" y="2021" useTextEdit="1" path="CMSIS_5/CMSIS/Core/Include/core_cm4.h" left="0" top="1999" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="59" y="9071" useTextEdit="1" path="STM32F4xx/Device/Include/stm32f407xx.h" left="0" top="9032" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="186" useTextEdit="1" path="SEGGER_THUMB_Startup.s" left="0" top="164" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="1" y="31" useTextEdit="1" path="r.c" left="0" top="0" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="45" y="21" useTextEdit="1" path="main.c" left="0" selected="1" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="87" useTextEdit="1" path="main.c" left="0" selected="1" top="26" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../ADC/RCC_Init.c" left="0" top="6" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="1540" useTextEdit="1" path="STM32F4xx/Device/Include/stm32f407xx.h" left="0" top="1521" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="35" y="195" useTextEdit="1" path="STM32F4xx/Source/stm32f407xx_Vectors.s" left="0" top="186" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="34" y="552" useTextEdit="1" path="../include/__SEGGER_RTL.h" left="34" top="532" codecName="Default"/>
  </Files>
- <EMStudioWindow activeProject="Executable_2" fileDialogDefaultFilter="*.c" autoConnectTarget="GDB Server" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="E:/STM/proekt2" debugSearchPath="" autoConnectCapabilities="1343"/>
+ <EMStudioWindow activeProject="Executable_1" fileDialogDefaultFilter="*.h" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="E:/STM/ADC" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>
